@@ -8,6 +8,7 @@ Let's go!
 
 ---
 
+```
 import java.util.Scanner;
 
 public class Solution {
@@ -18,6 +19,7 @@ public class Solution {
         System.out.println(message);
     }
 }
+```
 
 ---
 
@@ -28,6 +30,7 @@ public class Solution {
 
 - 최종 답안
 
+```
 import java.util.Scanner;
 
 public class Solution {
@@ -38,3 +41,4 @@ public class Solution {
         System.out.println(message);
     }
 }
+```
