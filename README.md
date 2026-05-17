@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Programmers -->
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg](https://github.com/user-attachments/assets/812c00d4-779d-4739-ba9f-05b7b3b8c766)" height="45" title="Programmers"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/13d3e1da-2aa9-4a65-84ba-5d50c1d2273d" height="45" title="Programmers"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
