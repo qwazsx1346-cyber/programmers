@@ -11,9 +11,13 @@
 
 
 마지막 글자	병과
+
 "_eye" ->	"Ophthalmologyc"
+
 "head" -> "Neurosurgery"
+
 "infl" -> "Orthopedics"
+
 "skin" -> "Dermatology"
 
 - 환자의 코드를 나타내는 문자열 code를 입력받아 위 표에 맞는 병과를 출력하도록 빈칸을 채워 코드를 완성해 주세요.
@@ -47,6 +51,7 @@ code가 "_eye"로 끝나기 때문에 "Ophthalmologyc"를 출력합니다.
 
 입출력 예 #2
 code가 "head"로 끝나기 때문에 "Neurosurgery"를 출력합니다.
+
 ---
 
 ## 기본 제공 코드
@@ -87,6 +92,9 @@ public class Solution {
 - 문제 의도와 같이 마지막 4글자에 따라 원하는 병과를 출력하면 된다.
 
   1. substirng()을 사용하여 문자열 code의 마지막 4글자를 추출한다.
+
   2. 추출한 문자열을 병과 분류 기준(_eye, head, infl, skin)과 비교한다.
+   
   3. 일치하는 경우 해당 병과명을 출력한다.
+     
   4. 어느 조건에도 해당하지 않으면 "direct recommendation"을 출력한다.
