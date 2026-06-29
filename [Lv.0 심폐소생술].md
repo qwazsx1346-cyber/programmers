@@ -30,7 +30,7 @@
 
 ## 입출력 예
 ```
-  cpr	result
+  cpr	                                                   result
   ["call", "respiration", "repeat", "check", "pressure"]	[2, 4, 5, 1, 3]
   ["respiration", "repeat", "check", "pressure", "call"]	[4, 5, 1, 3, 2]
 ```
